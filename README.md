@@ -3,8 +3,6 @@
 A new Flutter project.
 
 
-https://user-images.githubusercontent.com/113037698/225539112-e5d5c860-c783-468c-baf3-8607c40ebbac.mp4
-
 
 ## Getting Started
 
@@ -18,3 +16,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+<img src = "https://user-images.githubusercontent.com/123537725/225719384-a48e15f3-e635-4a94-a8a0-2e039672fba8.gif" width="200px">!
